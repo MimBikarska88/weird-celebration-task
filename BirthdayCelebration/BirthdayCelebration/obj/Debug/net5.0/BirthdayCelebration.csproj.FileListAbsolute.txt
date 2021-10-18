@@ -1,0 +1,16 @@
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\bin\Debug\net5.0\BirthdayCelebration.exe
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\bin\Debug\net5.0\BirthdayCelebration.deps.json
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\bin\Debug\net5.0\BirthdayCelebration.runtimeconfig.json
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\bin\Debug\net5.0\BirthdayCelebration.runtimeconfig.dev.json
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\bin\Debug\net5.0\BirthdayCelebration.dll
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\bin\Debug\net5.0\ref\BirthdayCelebration.dll
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\bin\Debug\net5.0\BirthdayCelebration.pdb
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\obj\Debug\net5.0\BirthdayCelebration.csprojAssemblyReference.cache
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\obj\Debug\net5.0\BirthdayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\obj\Debug\net5.0\BirthdayCelebration.AssemblyInfoInputs.cache
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\obj\Debug\net5.0\BirthdayCelebration.AssemblyInfo.cs
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\obj\Debug\net5.0\BirthdayCelebration.csproj.CoreCompileInputs.cache
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\obj\Debug\net5.0\BirthdayCelebration.dll
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\obj\Debug\net5.0\ref\BirthdayCelebration.dll
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\obj\Debug\net5.0\BirthdayCelebration.pdb
+C:\Users\Mimi\RiderProjects\BirthdayCelebration\BirthdayCelebration\obj\Debug\net5.0\BirthdayCelebration.genruntimeconfig.cache
